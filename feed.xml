@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-22T22:10:42+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">EarthWeeps</title><subtitle>EarthWeeps is a website that will publish videos, tutorials and information regularly on environmental issues.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/09/22/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-09-22T22:01:24+05:30</published><updated>2020-09-22T22:01:24+05:30</updated><id>http://localhost:4000/jekyll/update/2020/09/22/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/09/22/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-22T22:29:07+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">EarthWeeps</title><subtitle>EarthWeeps is a website that will publish videos, tutorials and information regularly on environmental issues.</subtitle><entry><title type="html">The Lion Tailed Macaque</title><link href="http://localhost:4000/jekyll/update/2020/09/22/lion-tailed-macaque.html" rel="alternate" type="text/html" title="The Lion Tailed Macaque" /><published>2020-09-22T22:20:24+05:30</published><updated>2020-09-22T22:20:24+05:30</updated><id>http://localhost:4000/jekyll/update/2020/09/22/lion-tailed-macaque</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/09/22/lion-tailed-macaque.html">&lt;h2 id=&quot;the-lion-tailed-macaque&quot;&gt;The Lion Tailed Macaque&lt;/h2&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;alsdkjfalskjfd&lt;/p&gt;
+
+&lt;h3 id=&quot;habitat&quot;&gt;Habitat&lt;/h3&gt;
+
+&lt;p&gt;aldkjalsdf&lt;/p&gt;
+
+&lt;h3 id=&quot;threat&quot;&gt;Threat&lt;/h3&gt;
+
+&lt;p&gt;adasfasdf&lt;/p&gt;
+
+&lt;h3 id=&quot;embedded-video&quot;&gt;Embedded Video&lt;/h3&gt;
+
+&lt;p&gt;some video here!&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">The Lion Tailed Macaque</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/09/22/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-09-22T22:01:24+05:30</published><updated>2020-09-22T22:01:24+05:30</updated><id>http://localhost:4000/jekyll/update/2020/09/22/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/09/22/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
